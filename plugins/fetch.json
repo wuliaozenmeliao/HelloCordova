@@ -1,0 +1,18 @@
+{
+  "cordova-plugin-whitelist": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-whitelist@1"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "toast_plugin": {
+    "source": {
+      "type": "local",
+      "path": "/Users/zhangyongzan/Desktop/WorkBook/node_modules/toast"
+    },
+    "is_top_level": true,
+    "variables": {}
+  }
+}
